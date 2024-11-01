@@ -1,2 +1,2 @@
 # ohtuvarasto
-muokattu 12 312 312 3
+[GHA workflow badge](https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg)
