@@ -30,7 +30,5 @@ jobs:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       - name: Install Pylint
         run: pip install pylint
-      - name: Install dependencies
-        run: pylint install
       - name: Run Pylint tests
         run: pylint src
